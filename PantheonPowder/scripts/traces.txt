@@ -1,0 +1,5 @@
+TMobile-UMTS:14
+TMobile-LTE:7
+ATT-LTE:15
+Verizon-LTE:21
+Verizon-EVDO:16
